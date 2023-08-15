@@ -1,6 +1,0 @@
-{{#user}
-Name: Fiker Yibeltal Adam
-Skills: HTML, CSS, JS, Next.js, React.js, Reactnative, PHP, Python
-Email: Fikeryibeltal31@gmail.com
-{{/user}}
- 
